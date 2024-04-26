@@ -1,0 +1,54 @@
+body {
+    background-color: white;
+    margin: 0;
+    padding: 0;
+}
+.page {
+    text-align: center;
+}
+
+#image-container {
+    width: 200;
+    height: 200;
+    display: block; 
+}
+#image{
+    margin-top: 40px; 
+    margin-top: 30px; 
+    margin-bottom: 10px ;
+}
+/* .tow{
+    height: 50%;
+    width: 100%;
+} */
+#choose {
+    text-align: center;
+    color: rgb(46, 46, 46);
+    font-size: 25px;
+}
+#menu {
+    margin-left: 5px;
+    color: rgb(0, 0, 0);
+    font-size: 30px;
+    font-weight: bold;
+}
+
+#desc {
+    color: rgb(46, 46, 46);
+    font-size: 19px;
+    text-align: center;
+    margin-bottom: 10px; 
+}
+
+#incrementButton {
+    width: 40%;
+    background-color: rgb(230, 42, 42);
+    color: white;
+    height: 40px;
+    font-size: 25px;
+    margin: 0 auto; 
+    display: block; 
+}
+
+
+
